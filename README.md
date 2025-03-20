@@ -1,6 +1,6 @@
 # Ausência em Home Office
 
-Este script Python simula movimentos contínuos do mouse na tela para evitar que o computador entre em estado de inatividade enquanto você está ausente. É útil quando você está em home office e deseja manter seu status ativo.
+Este script Python simula movimentos contínuos do mouse na tela para evitar que o computador entre em estado de inatividade enquanto você está ausente e mantém o status ativo no MS Teams. É útil quando você está em home office e deseja manter seu status ativo.
 
 ## 🚀 Como funciona
 O script move o cursor do mouse em um pequeno quadrado repetidamente, clicando levemente em cada ponto para garantir atividade contínua. A execução do script é interrompida quando qualquer tecla é pressionada.
